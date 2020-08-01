@@ -4,4 +4,4 @@ Contour DoseHoles in calculated plans and planSums.
 
 Note:
 - script is optimized to work with Eclipse 15.1
-- Dose Holes in regard to ICRU-83 convention (all under 95%-isodose)
+- DoseHole-Definition: in regard to ICRU-83 convention (all under 95%-isodose)
